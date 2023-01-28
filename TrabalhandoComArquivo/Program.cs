@@ -7,17 +7,18 @@ class TrabComArquivo
     static void Main(string[] args)
     {
 
-        string path = @"c:\temp\file1.txt";
+        string sourcePath = @"c:\temp\file1.txt";
+        string targetPath = @"c:\temp\file2.txt";
 
         try
         {
+            string[] lines = File.ReadAllLines(targetPath);
 
-            using (StreamReader sr = File.OpenText(path))
+            using (StreamWriter sw = File.AppendText(targetPath))
             {
-                while (!sr.EndOfStream)
+               foreach(string line in lines)
                 {
-                    string line = sr.ReadLine();
-                    Console.WriteLine(line);
+                    sw.WriteLine(line.ToUpper());
                 }
             }
 
