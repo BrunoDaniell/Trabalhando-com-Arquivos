@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\net6.0\TrabalhandoComArquivo.exe
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\net6.0\TrabalhandoComArquivo.deps.json
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\net6.0\TrabalhandoComArquivo.runtimeconfig.json
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\net6.0\TrabalhandoComArquivo.dll
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\net6.0\TrabalhandoComArquivo.pdb
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.AssemblyInfo.cs
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.dll
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\refint\TrabalhandoComArquivo.dll
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.pdb
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\TrabalhandoComArquivo.genruntimeconfig.cache
+C:\Users\bruno\Desktop\PROJETOS\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\net6.0\ref\TrabalhandoComArquivo.dll
